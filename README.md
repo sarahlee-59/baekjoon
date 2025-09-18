@@ -1,4 +1,3 @@
-# baekjoon
 # Baekjoon (BOJ) 문제 풀이 저장소
 
 백준(BOJ) 문제 풀이를 정리하는 저장소입니다.  
